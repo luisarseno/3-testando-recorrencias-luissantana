@@ -12,7 +12,7 @@ Para cada uma das recorrências:
 1. Para uma constante c = 10, e para n = 1, 2, 4, 6, 8, 16 
 ![Primeiro Exercício](/rec1.png)
 
-1. Para n = 1, 2, 4, 6, 8, 16
+1. Para n = 1, 2, 4, 6, 8, 16  
 ![Segundo Exercício](/rec2.png)
 
 1. Para uma constante c = 10, e para n = 1, 2, 4, 6, 8, 16
