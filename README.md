@@ -11,4 +11,8 @@ Para cada uma das recorrências:
 
 1. ![Primeiro Exercício](/rec1.png)
 
+1. ![Segundo Exercício](/rec2.png)
 
+1. ![Terceiro Exercício](/rec3.png)
+
+1. ![Quarto Exercício](/rec4.png)
