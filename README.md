@@ -9,5 +9,6 @@ Para cada uma das recorrências:
 * Indique, dadas as execuções, qual seria a complexidade assintótica dos algortimos representados pelas recorrências.
 
 
-1. 
+1. ![Primeiro Exercício](/rec1.png)
+
 
