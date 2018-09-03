@@ -9,10 +9,14 @@ Para cada uma das recorrências:
 * Indique, dadas as execuções, qual seria a complexidade assintótica dos algortimos representados pelas recorrências.
 
 
-1. ![Primeiro Exercício](/rec1.png)
+1. Para uma constante c = 10, e para n = 1, 2, 4, 6, 8, 16 
+![Primeiro Exercício](/rec1.png)
 
-1. ![Segundo Exercício](/rec2.png)
+1. Para uma constante c = 10, e para n = 1, 2, 4, 6, 8, 16
+![Segundo Exercício](/rec2.png)
 
-1. ![Terceiro Exercício](/rec3.png)
+1. Para uma constante c = 10, e para n = 1, 2, 4, 6, 8, 16
+![Terceiro Exercício](/rec3.png)
 
-1. ![Quarto Exercício](/rec4.png)
+1. Para uma constante c = 10, e para n = 1, 2, 4, 6, 8, 16
+![Quarto Exercício](/rec4.png)
