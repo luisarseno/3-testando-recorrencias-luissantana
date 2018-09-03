@@ -1,6 +1,6 @@
 # Exercícios para implementar a contagens com Recorrências
 
-As recorrências abaixo reprentam a quantidade de instruções/iterações que um algortimo recursivo executa.
+As recorrências abaixo representam a quantidade de instruções/iterações que um algortimo recursivo executa.
 Para cada uma das recorrências:
 
 * Implemente um algoritmo que implementa a contagem feita pelas recorrências abaixo;
